@@ -1,6 +1,8 @@
 # docker-nest
 
-Docker を使用して NestJs 環境構築を行います。
+Docker を使用して nest.js の環境構築を行います。
+以下の手順でローカル環境で nest.js サーバーが立ち上げることができます。
+Image や Volume は以下手順で取得できるのでコミットしていません。
 
 フォルダ作成
 
