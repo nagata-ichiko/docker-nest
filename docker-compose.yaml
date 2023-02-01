@@ -8,5 +8,5 @@ services:
       - "3000:3000"
     volumes:
       - type: bind
-        source: .
+        source: ./nest-volume
         target: /api
